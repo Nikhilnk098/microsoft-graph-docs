@@ -4,7 +4,7 @@ Thank you for your interest in Microsoft Graph documentation! For the best exper
 
 ## Give us your feedback
 
-Your feedback is important to us.
+Your feedback is important to all
 
 - To let us know about any questions or issues you find in the documentation, [submit an issue](https://github.com/microsoftgraph/microsoft-graph-docs/issues) in this repository.
 - We also encourage you to fork, make the fix, and do a pull request of your proposed changes. See [CONTRIBUTING.md](CONTRIBUTING.md) for contributing guidelines.
